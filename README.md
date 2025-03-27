@@ -10,7 +10,7 @@ My goal is of this portfolio is to showcase my competencies in many different sk
 To access broad understanding of each project, **select overview**.
 
 Otherwise, feel free to to dig deep into any project. 
-Do this by following **project type** folder, then select **desired project**. 
+Do this by selecting **project type** folder, then select **desired project**. 
 
 ## Contact Information
 
