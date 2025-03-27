@@ -7,7 +7,7 @@
 
 My goal is of this portfolio is to showcase my competencies in many different skills and software programs.
 
-To access broad understanding of each project, **select overview**.https://friarsprovidence-my.sharepoint.com/:w:/g/personal/oheaslip_friars_providence_edu/ERAQM-TSiNVApOaUqUqPzkYB6JIXg1PL9BTknLfktMnrog?e=X9vKNM
+To access broad understanding of each project, **select overview**.https://friarsprovidence-my.sharepoint.com/:w:/g/personal/oheaslip_friars_providence_edu/ERAQM-TSiNVApOaUqUqPzkYB6JIXg1PL9BTknLfktMnrog?e=X9vKNM/overview
 
 
 Otherwise, feel free to to dig deep into any project. 
