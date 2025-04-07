@@ -7,7 +7,7 @@
 
 My goal is of this portfolio is to showcase my competencies in many different skills and software programs.
 
-To access broad understanding of each project, open **Heaslip Portfolio PDF**.
+To access broad understanding of each project, open **Heaslip Portfolio DOCX**.
 
 
 Otherwise, feel free to to dig deep into any project. 
